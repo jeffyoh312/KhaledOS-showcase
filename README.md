@@ -8,9 +8,9 @@ A little professional. A little less serious once you get inside.
 
 This repository documents the project. The application source and original assets are maintained in a separate private repository.
 
-[GitHub](https://github.com/jeffyoh312) · [LinkedIn](https://www.linkedin.com/in/khaledmorshedac/)
+Visit the official portfolio website here: [KhaledOS](https://khaledos-40ikdvxpv-jeffyoh312s-projects.vercel.app/)
 
-Visit the official portfolio website here: [KhaledOS] https://khaledos-40ikdvxpv-jeffyoh312s-projects.vercel.app/
+[GitHub](https://github.com/jeffyoh312) · [LinkedIn](https://www.linkedin.com/in/khaledmorshedac/)
 
 ## The idea
 
