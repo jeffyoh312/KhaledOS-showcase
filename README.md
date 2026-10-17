@@ -10,7 +10,7 @@ This repository documents the project. The application source and original asset
 
 [GitHub](https://github.com/jeffyoh312) · [LinkedIn](https://www.linkedin.com/in/khaledmorshedac/)
 
-<!-- Add the public website link here after deployment: [Visit KhaledOS](https://your-domain.com) -->
+Visit the official portfolio website here: "Coming Soon"
 
 ## The idea
 
