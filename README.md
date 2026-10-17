@@ -10,7 +10,7 @@ This repository documents the project. The application source and original asset
 
 [GitHub](https://github.com/jeffyoh312) · [LinkedIn](https://www.linkedin.com/in/khaledmorshedac/)
 
-Visit the official portfolio website here: "Coming Soon"
+Visit the official portfolio website here: [KhaledOS] https://khaledos-40ikdvxpv-jeffyoh312s-projects.vercel.app/
 
 ## The idea
 
