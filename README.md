@@ -8,7 +8,7 @@ Keep going, and the page opens into a MacBook-inspired desktop. There are apps t
 
 It's still a portfolio. I just wanted it to feel a little more like me.
 
-**[Explore KhaledOS](https://khaledos.vercel.app/)** · [LinkedIn](https://www.linkedin.com/in/khaledmorshedac/) · [GitHub](https://github.com/jeffyoh312)
+**[Explore KhaledOS](https://khaledos.vercel.app/)** 
 
 ## Take a look around
 
